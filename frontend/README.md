@@ -15,8 +15,8 @@ This is the frontend of the project built using **Vite** and **React.js**.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/ayushchars/jobSearch.git
+cd jobSearch/frontend
 
 2. Install Dependencies
 
