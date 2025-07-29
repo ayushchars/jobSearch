@@ -14,8 +14,8 @@ This is a simple backend project built using **Node.js**, **Express.js**, and **
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/ayushchars/jobSearch.git
+cd jobSearch/backend
 
 2. Install dependencies
 
